@@ -1,0 +1,2 @@
+global password
+password = "dwvjcjxqhxunfrfe"

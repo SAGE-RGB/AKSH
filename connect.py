@@ -19,4 +19,5 @@ def check_database():
     except:
         pass
     finally:
-        con.close()
+
+        print("connected")
