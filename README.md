@@ -29,4 +29,4 @@ To get started with this project, you will need:
 ### Installation
 1. Clone this repository to your local machine:
    ```sh
-   git clone https://github.com/yourusername/wellness-app.git
+   git clone https://github.com/harshverdhan312/AKSH.git
