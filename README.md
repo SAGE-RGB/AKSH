@@ -23,7 +23,8 @@ Welcome to the Wellness App Project! This project aims to help people cultivate 
 
 ### Prerequisites
 To get started with this project, you will need:
-- A web browser (Chrome, Firefox, Safari, etc.)
+- Python and My Sql installed in your system
+- Python dependecies (Tkinter, PyGame, mysql-connector, PIL)
 - Internet connection
 
 ### Installation
